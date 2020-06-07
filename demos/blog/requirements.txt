@@ -1,5 +1,5 @@
-aiopg
+pyodbc
 bcrypt
 markdown
-psycopg2
+aioodbc
 tornado
